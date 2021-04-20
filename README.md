@@ -1,1 +1,1 @@
-yolov4
+The implementation is based on: https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing
